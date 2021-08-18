@@ -25,7 +25,7 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
 ### 2011-2014
 - Consulting for Citytech Inc (Now ICF International)
 - Lots of Adobe AEM (formerly CQ). Apache Sling, and an unfortunate amount of JSP 😝
-- Exciting clients 🚀🚀🚀 like Sony Playstation, General Electric, Fischer Scientific, Ingersoll Rand, Zebra Technologies, Commenwealth Bank of Australia, FairFax Media
+- Exciting clients 🚀🚀🚀 like Sony Playstation, General Electric, Fisher Scientific, Ingersoll Rand, Zebra Technologies, Commenwealth Bank of Australia, FairFax Media
 
 ### 2014-2016
 - Founded Epic Gamer LLC. Made some neat apps, such as [LOL Ping Test](https://play.google.com/store/apps/details?id=com.freelance_webs.lolpingtest&hl=en_CA&gl=US). 
