@@ -30,7 +30,7 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
 ### 2014-2016
 - Founded Epic Gamer LLC. Made some neat apps, such as [LOL Ping Test](https://play.google.com/store/apps/details?id=com.freelance_webs.lolpingtest&hl=en_CA&gl=US). 
 - Some contracting work in southern California.
-- Sebatical 😎 Lots of hiking in South America & Norway. Also focucsed on competetive beach volleyball, 7 days/week in LA 🏐. Don't forget to enjoy life, guys!
+- Sabbatical 😎 Lots of hiking in South America & Norway. Also focucsed on competetive beach volleyball, 7 days/week in LA 🏐. Don't forget to enjoy life, guys!
 
 ### 2016-2021
 - Architect & Manager @ Edlio, LLC. 
