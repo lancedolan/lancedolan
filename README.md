@@ -39,3 +39,5 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
 - Automated video captions via Google Cloud. Built a UI for realtime caption editing. 🥇
 - Lot's of career building for my team members. This is secretly my favorite part of the gig 💓
 - These years were the advent of the microservice! We learned a _lot_. First and foremost: don't make them too small and numerous. Build microservices, not nanoservices 😜
+
+https://stackoverflow.com/users/3684449/lance-dolan
