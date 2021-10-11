@@ -1,9 +1,10 @@
+
+
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Lance Dolan!
 <a href="https://stackoverflow.com/users/3684449/lance-dolan">
     <img src="https://img.shields.io/badge/Stack%20Overflow-2524-F47F24">
                                                         <!-- ^ Change this to your reputation -->
 </a>
-
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Lance Dolan!
 
 I've been a career software engineer since 2004. It's been a wild ride with a lot of technologies!
 
