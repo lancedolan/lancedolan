@@ -45,5 +45,6 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
 - Lots of modern microservices (node + mongo) integrated into a legacy monolith (tomcat + mysql)
 - Tremendous Let's Encrypt integration. Automated cert and renewal of ~50k domains for 10k customers and new customers arriving daily. This isn't your normal certbot solution 😆
 - Automated video captions via Google Cloud. Built a UI for realtime caption editing. 🥇
+- React Native: produced a mobile app from scratch that surpassed and replaced our primary mobile offer 😲
 - Lot's of career building for my team members. This is secretly my favorite part of the gig 💓
 - These years were the advent of the microservice! We learned a _lot_. First and foremost: don't make them too small and numerous. Build microservices, not nanoservices 😜
