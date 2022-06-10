@@ -48,3 +48,8 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
 - React Native: produced a mobile app from scratch that surpassed and replaced our primary mobile offer 😲
 - Lot's of career building for my team members. This is secretly my favorite part of the gig 💓
 - These years were the advent of the microservice! We learned a _lot_. First and foremost: don't make them too small and numerous. Build microservices, not nanoservices 😜
+
+### 2021-2022
+ -  SDE III @ AWS
+ - Automating AWS datacenter compliance through fancy shmancy workflow applications
+ - Lots of space to fill many roles: projct manager, product manager, engineering team lead, etc
