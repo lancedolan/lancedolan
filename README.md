@@ -50,6 +50,6 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
 - These years were the advent of the microservice! We learned a _lot_. First and foremost: don't make them too small and numerous. Build microservices, not nanoservices 😜
 
 ### 2021-2022
- -  SDE III @ AWS
+ -  SDE III @ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="30" height="20"/> 
  - Automating AWS datacenter compliance through fancy shmancy workflow applications
  - Lots of space to fill many roles: projct manager, product manager, engineering team lead, etc
