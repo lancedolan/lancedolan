@@ -31,9 +31,9 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
 ### 2011-2014
 - Consulting for Citytech Inc (Now ICF International)
 - Exciting clients 🚀🚀🚀 like Sony Playstation, General Electric, Fisher Scientific, Ingersoll Rand, Amway Global, Zebra Technologies, Commenwealth Bank of Australia, FairFax Media
+- Project Manager and Architect roles, simoultaneously. Turn the dream into a plan, then the plan into reality! 
 - Adobe AEM (formerly CQ). It's a world-class CMS that Adobe charges millions for (literally). 
 - Apache Sling & OSGI, Apache Solr, Backbone/Angular, NoSQL graph database, and an unfortunate amount of JSP 😝
-
 
 ### 2014-2016
 - Sabbatical 😎 Lots of hiking in South America & Norway. Also focused on competetive beach volleyball, 7 days/week in LA 🏐. Don't forget to enjoy life, friends!
