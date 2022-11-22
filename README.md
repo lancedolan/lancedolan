@@ -2,7 +2,7 @@
 
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Lance Dolan!
 <a href="https://stackoverflow.com/users/3684449/lance-dolan">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-2802-F47F24">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-3002-F47F24">
                                                         <!-- ^ Change this to your reputation -->
 </a>
 
@@ -52,4 +52,4 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
 ### 2021-2022
  -  Senior Engineer at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="30" height="20"/> 
  - Automating AWS datacenter compliance through fancy shmancy workflow applications
- - Lots of space to fill many roles: projct manager, product manager, engineering team lead, etc
+ - Lots of space to fill many roles: project manager, product manager, engineering team lead, etc
