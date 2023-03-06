@@ -44,7 +44,7 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
 
 ### 2016-2021
 - Architect & Engineering Manager @ Edlio, LLC. 
-- Lots of modern microservices (node + mongo) integrated into a legacy monolith (tomcat + mysql)
+- Broke a legacy monolith (tomcat + mysql) into lots of modern microservices (node + mongo).
 - Tremendous Let's Encrypt integration. Automated cert and renewal of ~50k domains for 10k customers. Monitors DNS, allowing new customers to onboard daily simply by updating DNS. This isn't your normal certbot solution 😆
 - Automated video captions via Google Cloud. Built a UI for realtime caption editing, very similar to Facebook's 🥇
 - React Native: produced a mobile app from scratch that surpassed and replaced our primary mobile offer 😲
