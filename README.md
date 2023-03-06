@@ -55,5 +55,5 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
  -  Senior Engineer at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="30" height="20"/> 
  - Automating AWS datacenter compliance through fancy shmancy workflow applications
  - Lots of space to fill many roles: project manager, product manager, engineering team lead, etc
- - TypeScript on a GraphQL/AppSync -> Lambda -> DDB stack, with OpenSearch indexing and Step Functions for large transaction queuing. 
+ - TypeScript on a GraphQL/AppSync -> Lambda -> DDB stack, with OpenSearch indexing and Step Functions for large transaction queuing... So many services.
  - CDK and a wild array of proprietary build tools for deployment 😵‍💫
