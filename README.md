@@ -56,4 +56,4 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
  - Automating AWS datacenter compliance through fancy shmancy workflow applications
  - Lots of space to fill many roles: project manager, product manager, engineering team lead, etc
  - TypeScript on a GraphQL/AppSync -> Lambda -> DDB stack, with OpenSearch indexing and Step Functions for large transaction queuing... So many services.
- - CDK and a wild array of proprietary build tools for deployment 😵‍💫
+ - CDK and a wild array of proprietary build tools for deployment 🤠
