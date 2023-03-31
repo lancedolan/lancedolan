@@ -26,6 +26,7 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
 ### 2004-2011
 - Started a freelance business in college. Custom wordpress integrations <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="20" height="20"/>
 - Senior Engineer @ MNDOT: lots of Spring/Struts/Hibernate/JSF. Anyone remember PrimeFaces?! Good times.
+  - I was only in a mid-level position for ~1 year.
 - Failed Startup ☹️ thebigdealcoupons.com - PrimeFaces on JBoss and MySQL. So many lessons learned building a business from scratch! 👨‍🎓
 
 ### 2011-2014
