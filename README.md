@@ -60,6 +60,6 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
  - CDK and a wild array of proprietary build tools for deployment 🤠
 
 ### 2026
- - [MyWealth](http://mywealth.lancedolan.com/)! Another entrepreneurial effort.
- - In truth, an excuse to experiment with 100% agentic development.
+ - [MyWealth](http://mywealth.lancedolan.com/) - Another entrepreneurial effort 💡
+ - An excuse to experiment with 100% agentic development.
  - Claude Design, Claude Code, and a variety of Skills and learning AI best practices.
