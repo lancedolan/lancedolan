@@ -53,8 +53,13 @@ What a great career to get into ❤️ It allowed me to see all corners of the w
 - These years were the advent of the microservice! We learned a _lot_. First and foremost: don't make them too small and numerous. Build microservices, not nanoservices 😜
 
 ### 2021-2025
- -  Senior Engineer at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="30" height="20"/> 
+ -  Senior Engineer at <img src="https://cmscritic.com/ms-content/uploads/2024/03/aws-logo-icon.jpg" alt="aws" width="25" height="25"/> 
  - Automating AWS datacenter compliance through fancy shmancy workflow applications
  - Lots of space to fill many roles: project manager, product manager, engineering team lead, etc
  - TypeScript & Java on a GraphQL/AppSync -> Lambda -> DDB stack, with OpenSearch indexing and Step Functions for large transaction queuing... So many services.
  - CDK and a wild array of proprietary build tools for deployment 🤠
+
+### 2026
+ - [MyWealth](http://mywealth.lancedolan.com/)! Another entrepreneurial effort.
+ - In truth, an excuse to experiment with 100% agentic development.
+ - Claude Design, Claude Code, and a variety of Skills and learning AI best practices.
